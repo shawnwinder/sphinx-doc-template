@@ -1,0 +1,13 @@
+.*
+*~
+bazel-*
+build/*
+bin/*
+lib/*
+var/*
+deps/*
+sphinx/build/*
+!.git*
+!.clang-format
+!.circleci
+!.drone.yml
